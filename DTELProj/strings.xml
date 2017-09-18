@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">DTel</string>
+    <string name="action_settings">Settings</string>
+    <string name="DTEL">DTEL</string>
+    <string name="Dtel_extended">Dynamically Tailored Educational Lessons</string>
+    <string name="Enter_Name">Enter Player Information:</string>
+    <string name="name">Name</string>
+    <string name="email">Email</string>
+    <string name="BOOM">BOOM</string>
+    <string name="Password">Password</string>
+
+</resources>
